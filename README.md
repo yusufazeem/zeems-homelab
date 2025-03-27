@@ -1,4 +1,6 @@
 # zeems-homelab
+![Cybersecurity Lab Network Architecture with OPNsense, Active Directory   Monitoring Stack](https://github.com/user-attachments/assets/c323ba1d-b438-41b3-9b7a-2d603acfb8c8)
+
 
 **Hands-on cybersecurity lab:** A modular setup focusing on real-world tools like firewalls, active directory, monitoring systems, and more.
 
